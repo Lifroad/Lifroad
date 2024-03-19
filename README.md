@@ -4,7 +4,7 @@ Hi 👋 My name is Roman
 Content-Manager
 ---------------
 
-* 🌍  I'm based in Saint-Petersbur
+* 🌍  I'm based in Saint-Petersburg
 * ✉️  You can contact me at [jlifroad@gmail.com](mailto:jlifroad@gmail.com)
 * 🚀  I'm currently working on [Gravity Field](http://gravityfield.ai/)
 
