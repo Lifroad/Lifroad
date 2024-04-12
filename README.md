@@ -1,7 +1,7 @@
 Hi 👋 My name is Roman
 ======================
 
-Content-Manager
+Campaign Manager
 ---------------
 
 * 🌍  I'm based in Saint-Petersburg
